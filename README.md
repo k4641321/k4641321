@@ -1,5 +1,6 @@
 # Hi there 👋
 <!-- ![GitHub watchers](https://img.shields.io/github/watchers/k4641321/k4641321?style=for-the-badge&color=green) -->
+此页面访问量 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=k4641321.visitor-badge&left_text=visitors&left_color=%23595959&right_color=%231283c3&logo=github)
 
 ## 关于我
 ![GitHub followers](https://img.shields.io/github/followers/k4641321)
@@ -17,4 +18,4 @@
 
 
 ![Stats](./profile/stats.svg)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=k4641321)
+<!-- ![Github Activity Graph](githubreadme.4641321.xyz/graph?username=k4641321) -->
