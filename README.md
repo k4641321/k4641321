@@ -15,7 +15,7 @@
 
 
 ## 支持我
-
+![Static Badge](https://img.shields.io/badge/%E7%82%B9%E5%87%BB%E8%B7%B3%E8%BD%AC-%23B300FF?style=for-the-badge&logo=afdian&logoColor=%23B300FF&label=%E4%BD%BF%E7%94%A8%E7%88%B1%E5%8F%91%E7%94%B5&link=https%3A%2F%2Fifdian.net%2Fa%2Fk4641321)  
 
 ![Stats](./profile/stats.svg)
 <!-- ![Github Activity Graph](githubreadme.4641321.xyz/graph?username=k4641321) -->
