@@ -11,7 +11,7 @@
 - 偶尔写点[文章](https://blog.devintom.top)
 
 ## 联系我
-![Static Badge](https://img.shields.io/badge/devintom%404641321.xyz-blue?style=for-the-badge&logo=gmail&logoColor=white&label=Email&link=mailto%3Adevintom%40devintom.top)
+![Static Badge](https://img.shields.io/badge/devintom%40devintom.top-blue?style=for-the-badge&logo=gmail&logoColor=white&label=Email&link=mailto%3Adevintom%40devintom.top)
 
 
 ## 支持我
