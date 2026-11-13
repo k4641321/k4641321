@@ -8,10 +8,10 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/k4641321?style=for-the-badge) 
 - Python、Flutter初学者  
 - 当前正在开发[chusearchsong](https://github.com/k4641321/chusearchsong)
-- 偶尔写点[文章](https://blog.4641321.xyz)
+- 偶尔写点[文章](https://blog.devintom.top)
 
 ## 联系我
-![Static Badge](https://img.shields.io/badge/devintom%404641321.xyz-blue?style=for-the-badge&logo=gmail&logoColor=white&label=Email&link=mailto%3Adevintom%404641321.xyz)
+![Static Badge](https://img.shields.io/badge/devintom%404641321.xyz-blue?style=for-the-badge&logo=gmail&logoColor=white&label=Email&link=mailto%3Adevintom%40devintom.top)
 
 
 ## 支持我
@@ -19,4 +19,4 @@
 
 
 ![Stats](./profile/stats.svg)
-<!-- ![Github Activity Graph](githubreadme.4641321.xyz/graph?username=k4641321) -->
+<!-- ![Github Activity Graph](githubreadme.devintom.top/graph?username=k4641321) -->
